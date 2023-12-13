@@ -1,0 +1,49 @@
+
+
+#titulo
+{
+
+    font-family:cursive;
+    color: brown;
+    text-shadow: black;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+#contenido
+{
+    font-size: small;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+#text
+{
+    font-size: small;
+    text-align: justify;
+}
+
+#im1
+{
+    background-color:aquamarine;
+    border-radius: 30px;
+    justify-content: center;
+    margin: 15px;
+    
+}
+#im1-1
+{
+    
+    width: 100%;
+}
+
+#redes
+{
+    top: 60%;
+    position: absolute;
+    display: grid;
+    gap: 15px;
+    right: 0;
+    transform: translatey(-40%);
+    z-index: 1;
+}
